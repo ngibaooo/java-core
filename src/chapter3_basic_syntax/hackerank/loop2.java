@@ -17,7 +17,7 @@ Sample Output:
 2 6 14 30 62 126 254 510 1022 2046
 8 14 26 50 98
  */
-package chapter1_basic_syntax.hackerank;
+package chapter3_basic_syntax.hackerank;
 import java.util.*;
 import java.io.*;
 

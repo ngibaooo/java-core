@@ -21,7 +21,7 @@ Sample Output:
 2 x 10 = 20
 */
 
-package chapter1_basic_syntax.hackerank;
+package chapter3_basic_syntax.hackerank;
 
 import java.io.*;
 import java.math.*;
